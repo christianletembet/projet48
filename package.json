@@ -1,0 +1,24 @@
+{
+  "name": "projet48",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christianletembet/projet48.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christianletembet/projet48/issues"
+  },
+  "homepage": "https://github.com/christianletembet/projet48#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "pdf2json": "^1.1.8"
+  }
+}
